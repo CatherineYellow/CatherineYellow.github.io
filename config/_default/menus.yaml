@@ -25,8 +25,8 @@ main:
   # - name: Teaching
   #   url: teaching/
   #   weight: 40
-  - name: Abount Me
-    url: /
+  - name: About Me
+    url: /#about
     weight: 10
   - name: Researches
     url: /

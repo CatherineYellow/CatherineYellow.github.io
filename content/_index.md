@@ -44,20 +44,20 @@ sections:
   #     columns: '1'
 
   - block: markdown
-  content:
-    title: '📚 About Me'
-    subtitle: ''
-    text: |-
-      I'm Jingjuan Huang, an undergraduate student at Southern University of Science and Technology (SUSTech), majoring in Data Science and Big Data Technology. 
+    content:
+      title: '📚 About Me'
+      subtitle: ''
+      text: |-
+        I'm Jingjuan Huang, an undergraduate student at Southern University of Science and Technology (SUSTech), majoring in Data Science and Big Data Technology. 
 
-      Quick Facts:
-      - 🎓 GPA: 3.93/4.0 (Ranking: 1/50)
-      - 🔬 Research interests: Optimization, 
-      - 💻 Skills: Python, Java, Matlab, SQL, SPSS, R, SAS
+        Quick Facts:
+        - 🎓 GPA: 3.93/4.0 (Ranking: 1/50)
+        - 🔬 Research interests: Optimization, 
+        - 💻 Skills: Python, Java, Matlab, SQL, SPSS, R, SAS
 
-      I'm passionate about applying data science techniques to solve real-world problems. My research experiences span from financial simulation optimization to analyzing scientist migration patterns.
-    design:
-      columns: '1'
+        I'm passionate about applying data science techniques to solve real-world problems. My research experiences span from financial simulation optimization to analyzing scientist migration patterns.
+      design:
+        columns: '1'
 
   - block: collection
     id: papers
